@@ -12,7 +12,7 @@ Research lab portfolio containing web applications in Python using several frame
 
 
 ### Dependencies:
-Python version: 8 <br />
+Python version: 3.8 <br />
 
 ### Technology stack:
 * Python
