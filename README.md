@@ -14,11 +14,11 @@ Research LAB portfolio containing web applications in Python using several frame
 ### Project's features: 
 * Linux, macOS, Git, Docker, Kubernetes, AWS, Azure
 
-# Development of Smart Data Integration Analysis Systems using Machine Learning:
+# Development of Smart Data Integration & Analysis Systems using Machine Learning:
 
 ![Smart Data Integration Analysis Systems using Machine Learning](/images/smart-data-integration-analysis-systems.jpg)
 
-# Test-driven development (TDD):
+# Test-driven development (TDD) using Python:
 
 ![Test-driven development (TDD)](/images/tdd.jpg)
 
