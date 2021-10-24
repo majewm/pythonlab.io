@@ -12,7 +12,7 @@ Research LAB portfolio containing web applications in Python using several frame
 * Python, Py4J, PyCharm Professional, AWS, Azure, databases, ...
 
 ### Project's features: 
-* Linux, macOS, Git, Docker, Kubernetes, AWS, Azure
+* AWS, Azure, Linux, macOS, Git, Docker, Kubernetes, 
 
 # Development of Smart Data Integration & Analysis Systems using Machine Learning:
 
